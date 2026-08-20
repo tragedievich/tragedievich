@@ -1,7 +1,9 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=VK:+@tragedia)](https://vk.ru/teract)
 
 <!--
-**tragedievich/tragedievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+<!--
+**bush1root/bush1root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
