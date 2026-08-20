@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=VK:+@tragedia)](https://vk.ru/teract)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&lines=VK:+@tragedia)](https://vk.ru/teract)
 
 <!--
 ### Hi there 👋
