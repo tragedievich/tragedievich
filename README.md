@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=java,py&theme=light" alt="core skills" />
 </p>
 
-- **languages**: Java
+- **languages**: Java, Python
 
 ---
 
