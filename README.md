@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&lines=VK:+@tragedia)](https://vk.ru/teract)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="core skills" />
+</p>
+
+- **languages**: Java
+
+---
+
 <!--
 ### Hi there 👋
 <!--
