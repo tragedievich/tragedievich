@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&lines=VK:+@tragedia)](https://vk.ru/teract)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,cpp,c,csharp&theme=light" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,cpp,c,rust&theme=light" alt="core skills" />
 
 <!--
 ### Hi there 👋
