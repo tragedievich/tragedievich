@@ -1,12 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&lines=VK:+@tragedia)](https://vk.ru/teract)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py&theme=light" alt="core skills" />
-</p>
-
-- **languages**: Java, Python
-
----
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,cpp,c,c#&theme=light" alt="core skills" />
 
 <!--
 ### Hi there 👋
