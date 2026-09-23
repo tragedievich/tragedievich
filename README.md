@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0d12,35:cbd5e1,50:f8fafc,65:cbd5e1,100:0b0d12&height=230&section=header&text=tragedia&fontSize=64&fontColor=ffffff&animation=twinkling" width="100%">
-</p>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=tragedia&fontSize=64&fontColor=ffffff&animation=fadeIn" width="100%"> </p
 
 <h3 align="center">17-year-old developer • Java enthusiast</h3>
 
