@@ -23,7 +23,7 @@ I enjoy creating software, experimenting with different technologies, and turnin
 ### languages & technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,cpp,c,py&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,cpp,cs,c&theme=dark" alt="languages" />
 </p>
 
 * ☕ **Java** — primary language
