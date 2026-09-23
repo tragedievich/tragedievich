@@ -30,7 +30,7 @@ I enjoy creating software, experimenting with different technologies, and turnin
 * 🟨 **JavaScript**
 * 🔷 **TypeScript**
 * 🌐 **HTML / CSS**
-* ⚙️ **C / C++**
+* ⚙️ **C++ / С# / C**
 * 🐍 **Python**
 
 ---
