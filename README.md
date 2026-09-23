@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tragedievich/tragedievich/blob/main/tragedievich.jpg?raw=true" width="100%" alt="tragedievich">
+  <img src="https://i.pinimg.com/736x/31/dc/54/31dc54528855efe1bbd6007061de15f5.jpg" width="100%" alt="tragedievich">
 </p>
 
 <h3 align="center">17-year-old developer • Java enthusiast</h3>
