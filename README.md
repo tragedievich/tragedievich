@@ -12,7 +12,7 @@
 
 ### about
 
-**G'day, my name is Leon I'm a **17-year-old developer** and **Java is my primary programming language**.
+**G'day, my name is Leon I'm a** **17-year-old developer and Java is my primary programming language**.
 
 I also work with **JavaScript, TypeScript, HTML, CSS, C++, C, and Python**.
 
